@@ -1124,7 +1124,7 @@ header.main-header .header-sticky.active{
 
 .parallaxie {
     /* Image ka path set karein */
-    background-image: url('./src/assets/images/watch-video-circle.png'); 
+    background-image: url('/assets/images/watch-video-circle.png'); 
     
     /* Isse image scroll karte waqt ek jagah fix rahegi */
     background-attachment: fixed; 

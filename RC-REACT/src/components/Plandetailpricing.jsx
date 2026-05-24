@@ -7,7 +7,7 @@ function Plandetailpricing(){
                     <div className="pricing-item wow fadeInUp" data-wow-delay="0.2s">
                         <div className="pricing-item-header">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-pricing-item-1.svg" alt=""/>
+                                <img src="/assets/images/icon-pricing-item-1.svg" alt=""/>
                             </div>
                             <div className="pricing-item-content">
                                 <h2>Basic Membership</h2>
@@ -86,7 +86,7 @@ function Plandetailpricing(){
                         </div>
                         <div className="pricing-cta-image">
                             <figure>
-                                <img src="./src/assets/images/our-pricing-cta-image.png" alt=""/>
+                                <img src="/assets/images/our-pricing-cta-image.png" alt=""/>
                             </figure>
                         </div>
                     </div>
@@ -94,9 +94,9 @@ function Plandetailpricing(){
                 <div className="col-lg-12">
                     <div className="pricing-benefit-list wow fadeInUp" data-wow-delay="0.8s">
                         <ul>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-1.svg" alt=""/>Get 30 day free trial</li>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-2.svg" alt=""/>No any hidden fees pay</li>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-3.svg" alt=""/>You can cancel anytime</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-1.svg" alt=""/>Get 30 day free trial</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-2.svg" alt=""/>No any hidden fees pay</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-3.svg" alt=""/>You can cancel anytime</li>
                         </ul>
                     </div>
                  

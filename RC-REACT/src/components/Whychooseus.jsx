@@ -25,7 +25,7 @@ function Whychooseus(){
                         </div>
                         <div className="why-choose-us-image-gold">
                             <figure>
-                                <img src="./src/assets/images/imagerc3.png.png" alt=""/>
+                                <img src="/assets/images/imagerc3.png.png" alt=""/>
                             </figure>
                         </div>
                         <div className="why-choose-item-list-gold wow fadeInUp">

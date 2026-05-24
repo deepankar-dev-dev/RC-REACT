@@ -12,7 +12,7 @@ function Aboutsection(){
                             
                             <div className="about-us-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/modelW.png.png" alt=""/>
+                                    <img src="/assets/images/modelW.png.png" alt=""/>
                                 </figure>
                             </div>
                             
@@ -52,7 +52,7 @@ function Aboutsection(){
                              
                                 <div className="google-rating-box">
                                     <div className="google-rating-logo">
-                                        <img src="./src/assets/images/icon-google.svg" alt=""/>
+                                        <img src="/assets/images/icon-google.svg" alt=""/>
                                     </div>
                                     <div className="google-rating-info">
                                         <div className="google-rating-header">
@@ -79,7 +79,7 @@ function Aboutsection(){
                          
                             <div className="about-us-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/training.jpg.jpeg" alt=""/>
+                                    <img src="/assets/images/training.jpg.jpeg" alt=""/>
                                 </figure>
                             </div>
                  
@@ -105,7 +105,7 @@ function Aboutsection(){
                         
                             <div className="about-us-item">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-about-us-item-1.svg" alt=""/>
+                                    <img src="/assets/images/icon-about-us-item-1.svg" alt=""/>
                                 </div>
                                 <div className="about-us-item-content">
                                     <h3>Modern Facilities</h3>
@@ -117,7 +117,7 @@ function Aboutsection(){
                           
                             <div className="about-us-item">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-about-us-item-2.svg" alt=""/>
+                                    <img src="/assets/images/icon-about-us-item-2.svg" alt=""/>
                                 </div>
                                 <div className="about-us-item-content">
                                     <h3>Supportive Coaches</h3>
@@ -143,7 +143,7 @@ function Aboutsection(){
                             
                             <div className="contact-us-circle">
                                 <a href="contact.html">
-                                    <img src="./src/assets/images/gym-logo.png" alt=""/>
+                                    <img src="/assets/images/gym-logo.png" alt=""/>
                   <p style={{ color: '#000000', fontStyle: 'normal', fontSize: 'large' }}>
   Contact Us..🕿
 </p>

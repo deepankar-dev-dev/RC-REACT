@@ -55,7 +55,7 @@ function Ourtestimonialspricing(){
 
                             <div className="contact-us-circle wow fadeInUp" data-wow-delay="0.4s">
                                 <Link to="/contact">
-                                    <img src="./src/assets/images/gym-logo.png" alt="Gym Logo" />
+                                    <img src="/assets/images/gym-logo.png" alt="Gym Logo" />
                                     <p style={{ color: 'white', fontStyle: 'normal', fontSize: 'large' }}>Contact Us..🕿</p>
                                 </Link>
                             </div>
@@ -79,7 +79,7 @@ function Ourtestimonialspricing(){
                                                     <i className="fa-solid fa-star"></i>
                                                 </div>
                                                 <div className="testimonial-item-quote">
-                                                    <img src="./src/assets/images/testimonial-quote.svg" alt="" />
+                                                    <img src="/assets/images/testimonial-quote.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="testimonial-item-body">
@@ -113,7 +113,7 @@ function Ourtestimonialspricing(){
                                                     <i className="fa-solid fa-star"></i>
                                                 </div>
                                                 <div className="testimonial-item-quote">
-                                                    <img src="./src/assets/images/testimonial-quote.svg" alt="" />
+                                                    <img src="/assets/images/testimonial-quote.svg" alt="" />
                                                 </div>
                                             </div>
                                             <div className="testimonial-item-body">
@@ -159,32 +159,32 @@ function Ourtestimonialspricing(){
                                     <div className="swiper-wrapper">
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-1.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-1.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-2.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-2.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-3.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-3.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-4.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-4.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-5.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-5.svg" alt="" />
                                             </div>
                                         </div>
                                         <div className="swiper-slide">
                                             <div className="company-supports-logo">
-                                                <img src="./src/assets/images/company-supports-logo-3.svg" alt="" />
+                                                <img src="/assets/images/company-supports-logo-3.svg" alt="" />
                                             </div>
                                         </div>
                                     </div>

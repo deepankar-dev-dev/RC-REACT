@@ -7,34 +7,34 @@ function FAQs(){
                     <div className="faqs-image-box-gold">
                         <div className="faqs-img-gold">
                             <figure className="image-anime">
-                                <img src="./src/assets/images/imagerct1.png.png" alt=""/>
+                                <img src="/assets/images/imagerct1.png.png" alt=""/>
                             </figure>
                         </div>
                         <div className="faq-cta-box-gold">
                             <div className="satisfy-client-images">
                                 <div className="satisfy-client-image">
                                     <figure className="image-anime">
-                                        <img src="./src/assets/images/author-1.jpg" alt=""/>
+                                        <img src="/assets/images/author-1.jpg" alt=""/>
                                     </figure>
                                 </div>
                                 <div className="satisfy-client-image">
                                     <figure className="image-anime">
-                                        <img src="./src/assets/images/author-2.jpg" alt=""/>
+                                        <img src="/assets/images/author-2.jpg" alt=""/>
                                     </figure>
                                 </div>
                                 <div className="satisfy-client-image">
                                     <figure className="image-anime">
-                                        <img src="./src/assets/images/author-3.jpg" alt=""/>
+                                        <img src="/assets/images/author-3.jpg" alt=""/>
                                     </figure>
                                 </div>
                                 <div className="satisfy-client-image">
                                     <figure className="image-anime">
-                                        <img src="./src/assets/images/author-4.jpg" alt=""/>
+                                        <img src="/assets/images/author-4.jpg" alt=""/>
                                     </figure>
                                 </div>
                                 <div className="satisfy-client-image">
                                     <figure className="image-anime">
-                                        <img src="./src/assets/images/author-5.jpg" alt=""/>
+                                        <img src="/assets/images/author-5.jpg" alt=""/>
                                     </figure>
                                 </div>
                             </div>

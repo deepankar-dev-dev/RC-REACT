@@ -8,7 +8,7 @@ function Whatwedo(){
                  
                     <div className="what-we-do-image-gold">
                         <figure className="image-anime reveal" style={{ opacity: 1, visibility: 'inherit', translate: 'none', rotate: 'none', scale: 'none', transform: 'translate(0px, 0px)'}}>
-                            <img src="./src/assets/images/model.png.png" alt=""/>
+                            <img src="/assets/images/model.png.png" alt=""/>
                         </figure>
                     </div>
                 
@@ -29,7 +29,7 @@ function Whatwedo(){
                          
                             <div className="what-we-item-gold wow fadeInUp" data-wow-delay="0.4s">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-what-we-do-1-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-what-we-do-1-gold.svg" alt=""/>
                                 </div>                             
                                 <div className="what-we-item-content-gold">
                                     <h3>Nutrition & Lifestyle Guidance</h3>
@@ -41,7 +41,7 @@ function Whatwedo(){
                      
                             <div className="what-we-item-gold wow fadeInUp" data-wow-delay="0.6s">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-what-we-do-2-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-what-we-do-2-gold.svg" alt=""/>
                                 </div>                             
                                 <div className="what-we-item-content-gold">
                                     <h3>Personalized Workout Programs</h3>
@@ -62,7 +62,7 @@ function Whatwedo(){
                          
                             <div className="what-we-contact-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-headphone-primary.svg" alt=""/>
+                                    <img src="/assets/images/icon-headphone-primary.svg" alt=""/>
                                 </div>
                                 <div className="what-we-contact-content-gold">
                                     <h3>Contact Number</h3>

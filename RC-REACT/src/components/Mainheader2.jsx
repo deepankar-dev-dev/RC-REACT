@@ -48,7 +48,7 @@ function Mainheader2(){
                     {/* <!-- Hero Image start --> */}
                     <div className="hero-image-gold">
                         <figure>
-                            <img src="./src/assets/images/model2.png.png" alt=""/>
+                            <img src="/assets/images/model2.png.png" alt=""/>
                         </figure>
                     </div>
                     {/* <!-- Hero Image End --> */}

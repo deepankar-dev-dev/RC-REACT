@@ -39,7 +39,7 @@ function Footer(){
                        
                         <div className="about-footer-gold">
                             <div className="footer-logo-gold">
-                                <img src="./src/assets/images/gym-logo.png" alt=""/>
+                                <img src="/assets/images/gym-logo.png" alt=""/>
                             </div>               
                             <div className="about-footer-content-gold">
                                 <p>We are a results-driven fitness center committed to helping individuals achieve strength, confidence, and healthier lifestyles. With expert trainers, modern equipment,</p>

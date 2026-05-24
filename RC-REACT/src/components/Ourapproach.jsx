@@ -15,7 +15,7 @@ function Ourapproach(){
                 <div className="col-lg-6">
                     <div className="our-approach-image">
                         <figure className="image-anime">
-                            <img src="./src/assets/images/about-approach.jpeg" alt=""/>
+                            <img src="/assets/images/about-approach.jpeg" alt=""/>
                         </figure>
                     </div>
                 </div>
@@ -23,7 +23,7 @@ function Ourapproach(){
                     <div className="our-approach-list">
                         <div className="our-approach-item wow fadeInUp">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-approach-1.svg" alt=""/>
+                                <img src="/assets/images/icon-our-approach-1.svg" alt=""/>
                             </div>
                             <div className="our-approach-item-content">
                                 <h3>Our Mission</h3>
@@ -32,7 +32,7 @@ function Ourapproach(){
                         </div>
                         <div className="our-approach-item wow fadeInUp" data-wow-delay="0.2s">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-approach-2.svg" alt=""/>
+                                <img src="/assets/images/icon-our-approach-2.svg" alt=""/>
                             </div>
                             <div className="our-approach-item-content">
                                 <h3>Our Vision</h3>
@@ -41,7 +41,7 @@ function Ourapproach(){
                         </div>
                         <div className="our-approach-item wow fadeInUp" data-wow-delay="0.4s">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-approach-3.svg" alt=""/>
+                                <img src="/assets/images/icon-our-approach-3.svg" alt=""/>
                             </div>
                             <div className="our-approach-item-content">
                                 <h3>Our Value</h3>
@@ -55,11 +55,11 @@ function Ourapproach(){
                         <div className="satisfy-client-images">
                             <div className="satisfy-client-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/author-6.jpg" alt=""/>
+                                    <img src="/assets/images/author-6.jpg" alt=""/>
                                 </figure>
                             </div>
                             <div className="satisfy-client-image add-more">
-                                <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                             </div>
                         </div>  
                         <p style={{color:'grey'}}>Let's make something great work together. <a href="contact">Get Free Quote</a></p>

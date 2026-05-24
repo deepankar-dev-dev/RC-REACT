@@ -9,7 +9,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/imagerc2.png.png" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/imagerc2.png.png" alt=""/>
                                 </figure>
                             </a>
                         </div>
@@ -35,7 +35,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/imagerc3.png.png" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/imagerc3.png.png" alt=""/>
                                 </figure>
                             </a>
                         </div>
@@ -61,7 +61,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/model.png.png" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/model.png.png" alt=""/>
                                 </figure>
                             </a>
                         </div>
@@ -87,7 +87,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
                                 </figure>
                             </a>
                         </div>
@@ -113,7 +113,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/about-approach-image.jpg.jpeg" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/about-approach-image.jpg.jpeg" alt=""/>
                                 </figure>
                             </a>
                         </div>
@@ -139,7 +139,7 @@ function Trainergallery(){
                         <div className="trainer-item-image">
                             <a href="trainer-details" data-cursor-text="View">
                                 <figure>
-                                    <img style={{color:'GrayText'}} src="./src/assets/images/imagerc1.png.png" alt=""/>
+                                    <img style={{color:'GrayText'}} src="/assets/images/imagerc1.png.png" alt=""/>
                                 </figure>
                             </a>
                         </div>

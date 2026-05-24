@@ -7,18 +7,18 @@ function Aboutmetrainerdetail(){
                     <div className="page-single-sidebar">
                         <div className="team-single-image">
                             <figure className="image-anime">
-                                <img style= {{maxwidth: '100%'}} src="./src/assets/images/imagerc2.png.png" alt=""/>
+                                <img style= {{maxwidth: '100%'}} src="/assets/images/imagerc2.png.png" alt=""/>
                             </figure>
                         </div>
                         <div className="sidebar-cta-box wow fadeInUp" data-wow-delay="0.25s">
                             <div className="sidebar-cta-image">
                                 <figure>
-                                    <img style= {{maxwidth: '100%'}}src="./src/assets/images/program-rc-image1.jpg.jpeg" alt=""/>
+                                    <img style= {{maxwidth: '100%'}}src="/assets/images/program-rc-image1.jpg.jpeg" alt=""/>
                                 </figure>
                             </div>
                             <div className="sidebar-cta-body">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-headphone-primary.svg" alt=""/>
+                                    <img src="/assets/images/icon-headphone-primary.svg" alt=""/>
                                 </div>
                                 <div className="sidebar-cta-content">
                                     <h2>Contact Us!</h2>
@@ -42,7 +42,7 @@ function Aboutmetrainerdetail(){
                             <div className="team-contact-list">
                                 <div className="team-contact-item wow fadeInUp" data-wow-delay="0.2s">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                        <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                                     </div>
                                     <div className="team-contact-item-content">
                                         <h3>Phone Number:</h3>
@@ -51,7 +51,7 @@ function Aboutmetrainerdetail(){
                                 </div>
                                 <div className="team-contact-item wow fadeInUp" data-wow-delay="0.4s">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-mail-primary.svg" alt=""/>
+                                        <img src="/assets/images/icon-mail-primary.svg" alt=""/>
                                     </div>
                                     <div className="team-contact-item-content">
                                         <h3>Email Address:</h3> 
@@ -60,7 +60,7 @@ function Aboutmetrainerdetail(){
                                 </div>
                                 <div className="team-contact-item wow fadeInUp" data-wow-delay="0.6s">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-team-contact-experience.svg" alt=""/>
+                                        <img src="/assets/images/icon-team-contact-experience.svg" alt=""/>
                                     </div>
                                     <div className="team-contact-item-content">
                                         <h3>My Experience:</h3>
@@ -128,7 +128,7 @@ function Aboutmetrainerdetail(){
                             <div className="member-philosophy-item-list">
                                 <div className="member-philosophy-item wow fadeInUp" data-wow-delay="0.2s">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-member-philosophy-item-1.svg" alt=""/>
+                                        <img src="/assets/images/icon-member-philosophy-item-1.svg" alt=""/>
                                     </div>
                                     <div className="member-philosophy-item-content">
                                         <h3>🧠 Train Smart & Correct Technique</h3>
@@ -137,7 +137,7 @@ function Aboutmetrainerdetail(){
                                 </div>\
                                 <div className="member-philosophy-item wow fadeInUp" data-wow-delay="0.4s">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-member-philosophy-item-2.svg" alt=""/>
+                                        <img src="/assets/images/icon-member-philosophy-item-2.svg" alt=""/>
                                     </div>
                                     <div className="member-philosophy-item-content">
                                         <h3>🔄 Tailored Programming. Sustainable Growth.</h3>

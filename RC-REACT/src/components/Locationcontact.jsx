@@ -1,4 +1,4 @@
-import "../assets/CSS/contactus.css";
+import "../../public/assets/CSS/contactus.css";
 
 function Locationcontact(){
     return(

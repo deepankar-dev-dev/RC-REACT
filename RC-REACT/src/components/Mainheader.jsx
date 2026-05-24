@@ -8,7 +8,7 @@ function Mainheader() {
                     <div className="container">
                         {/* Logo Start */}
                         <Link className="navbar-brand d-flex align-items-center" to="/">
-                            <img src="./src/assets/images/image.png.png" alt="Logo" style={{ height: '90px', marginRight: '10px' }}/>
+                            <img src="/assets/images/image.png.png" alt="Logo" style={{ height: '90px', marginRight: '10px' }}/>
                             <h2 style={{ margin: 0, fontWeight: 700, fontSize: '28px' }}>
                                 <span style={{ color: 'silver' }}>R</span>
                                 <span style={{ color: 'red' }}>C</span>

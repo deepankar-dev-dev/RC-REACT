@@ -18,7 +18,7 @@ function Aboutgym(){
                             <div className="about-us-item-gold">
                                 <div className="about-us-item-header-gold">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-about-us-1-gold.svg" alt=""/>
+                                        <img src="/assets/images/icon-about-us-1-gold.svg" alt=""/>
                                     </div>
                                     <div className="about-us-item-title-gold">
                                         <h3>Our Mission</h3>                                       
@@ -34,7 +34,7 @@ function Aboutgym(){
                             <div className="about-us-item-gold">
                                 <div className="about-us-item-header-gold">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-about-us-2-gold.svg" alt=""/>
+                                        <img src="/assets/images/icon-about-us-2-gold.svg" alt=""/>
                                     </div>
                                     <div className="about-us-item-title-gold">
                                         <h3>Our Vision</h3>                                        
@@ -85,7 +85,7 @@ function Aboutgym(){
                         
                             <div className="about-us-image-gold">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/imagerc1.png.png" alt=""/>
+                                    <img src="/assets/images/imagerc1.png.png" alt=""/>
                                 </figure>
                             </div>
                        
@@ -93,7 +93,7 @@ function Aboutgym(){
                       
                             <div className="about-us-counter-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-about-us-counter-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-about-us-counter-gold.svg" alt=""/>
                                 </div>
                                 <div className="about-us-counter-content-gold">
                                     <h3><span className="counter">20</span>+</h3>
@@ -140,7 +140,7 @@ function Aboutgym(){
 
                                 <div className="google-rating-box-gold">
                                     <div className="google-rating-logo-gold">
-                                        <img src="./src/assets/images/icon-google.svg" alt=""/>
+                                        <img src="/assets/images/icon-google.svg" alt=""/>
                                     </div>
                                     <div className="google-rating-info-gold">
                                         <div className="google-rating-header-gold">
@@ -162,7 +162,7 @@ function Aboutgym(){
 
                             <div className="about-us-image-gold">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/imagerc2.png.png" alt=""/>
+                                    <img src="/assets/images/imagerc2.png.png" alt=""/>
                                 </figure>
                             </div>
                         </div>

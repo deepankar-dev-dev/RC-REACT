@@ -18,12 +18,12 @@ function Pageprogramssingle(){
                         <div className="sidebar-cta-box wow fadeInUp" data-wow-delay="0.25s">
                             <div className="sidebar-cta-image">
                                 <figure>
-                                    <img style={{maxwidth: '100%'}} src="./src/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
+                                    <img style={{maxwidth: '100%'}} src="/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
                                 </figure>
                             </div>
                             <div className="sidebar-cta-body">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-headphone-primary.svg" alt=""/>
+                                    <img src="/assets/images/icon-headphone-primary.svg" alt=""/>
                                 </div>
                                 <div className="sidebar-cta-content">
                                     <h2>Contact Us Today!</h2>
@@ -41,7 +41,7 @@ function Pageprogramssingle(){
                     <div className="program-single-content">
                         <div className="page-single-image">
                             <figure className="image-anime">
-                                <img style={{maxwidth: '100%'}} src="./src/assets/images/about-item-image1.jpeg" alt=""/>
+                                <img style={{maxwidth: '100%'}} src="/assets/images/about-item-image1.jpeg" alt=""/>
                             </figure>
                         </div>
                         
@@ -54,13 +54,13 @@ function Pageprogramssingle(){
                                 <div className="program-benefits-body">                                                                        
                                     <div className="program-benefits-image">
                                         <figure className="image-anime">
-                                            <img style={{maxwidth: '100%'}} src="./src/assets/images/modelW.png.png" alt=""/>
+                                            <img style={{maxwidth: '100%'}} src="/assets/images/modelW.png.png" alt=""/>
                                         </figure>
                                     </div>
                                     <div className="program-benefits-item-list">
                                         <div className="program-benefits-item wow fadeInUp" data-wow-delay="0.2s">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-benefits-1.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-benefits-1.svg" alt=""/>
                                             </div>
                                             <div className="program-benefits-item-content">
                                                 <h3>Build Muscle Strength and Tone</h3>
@@ -69,7 +69,7 @@ function Pageprogramssingle(){
                                         </div>
                                         <div className="program-benefits-item wow fadeInUp" data-wow-delay="0.4s">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-benefits-2.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-benefits-2.svg" alt=""/>
                                             </div>
                                             <div className="program-benefits-item-content">
                                                 <h3>Boost Metabolism and Fat Loss</h3>
@@ -78,7 +78,7 @@ function Pageprogramssingle(){
                                         </div>
                                         <div className="program-benefits-item wow fadeInUp" data-wow-delay="0.6s">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-benefits-3.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-benefits-3.svg" alt=""/>
                                             </div>
                                             <div className="program-benefits-item-content">
                                                 <h3>Improve Functional Fitness & Posture</h3>
@@ -97,7 +97,7 @@ function Pageprogramssingle(){
                                     <div className="program-features-item wow fadeInUp" data-wow-delay="0.2s">
                                         <div className="program-features-item-body">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-features-1.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-features-1.svg" alt=""/>
                                             </div>
                                             <div className="program-features-item-content">
                                                 <h3>Personalized Strength Training Plans</h3>
@@ -105,14 +105,14 @@ function Pageprogramssingle(){
                                         </div>
                                         <div className="program-features-item-image">
                                             <figure className="image-anime">
-                                                <img src="./src/assets/images/about-approach-image.jpg.jpeg" alt=""/>
+                                                <img src="/assets/images/about-approach-image.jpg.jpeg" alt=""/>
                                             </figure>
                                         </div>
                                     </div>
                                     <div className="program-features-item wow fadeInUp" data-wow-delay="0.4s">
                                         <div className="program-features-item-body">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-features-2.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-features-2.svg" alt=""/>
                                             </div>
                                             <div className="program-features-item-content">
                                                 <h3>Performance Tracking and Recovery</h3>
@@ -120,14 +120,14 @@ function Pageprogramssingle(){
                                         </div>
                                         <div className="program-features-item-image">
                                             <figure className="image-anime">
-                                                <img style={{maxwidth: '100%'}} src="./src/assets/images/program-rc-image1.jpg.jpeg" alt=""/>
+                                                <img style={{maxwidth: '100%'}} src="/assets/images/program-rc-image1.jpg.jpeg" alt=""/>
                                             </figure>
                                         </div>
                                     </div>
                                     <div className="program-features-item wow fadeInUp" data-wow-delay="0.6s">
                                         <div className="program-features-item-body">
                                             <div className="icon-box">
-                                                <img src="./src/assets/images/icon-program-features-3.svg" alt=""/>
+                                                <img src="/assets/images/icon-program-features-3.svg" alt=""/>
                                             </div>
                                             <div className="program-features-item-content">
                                                 <h3>Access to Advanced Equipment</h3>
@@ -135,7 +135,7 @@ function Pageprogramssingle(){
                                         </div>
                                         <div className="program-features-item-image">
                                             <figure className="image-anime">
-                                                <img src="./src/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
+                                                <img src="/assets/images/program-muscle-image.jpg.jpeg" alt=""/>
                                             </figure>
                                         </div>
                                     </div>
@@ -148,7 +148,7 @@ function Pageprogramssingle(){
                                             </figure>
                                         </div>
                                         <div className="satisfy-client-image add-more">
-                                            <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                            <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                                         </div>
                                     </div>
  

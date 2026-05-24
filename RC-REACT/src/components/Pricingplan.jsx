@@ -20,7 +20,7 @@ function Pricingplan(){
                         <div className="pricing-item-header-gold">
                             <div className="pricing-item-header-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-pricing-item-1-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-pricing-item-1-gold.svg" alt=""/>
                                 </div>
                                 <div className="pricing-item-title-gold">
                                     <h3>Basic Plan</h3>
@@ -57,7 +57,7 @@ function Pricingplan(){
                         <div className="pricing-item-header-gold">
                             <div className="pricing-item-header-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-pricing-item-1-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-pricing-item-1-gold.svg" alt=""/>
                                 </div>
                                 <div className="pricing-item-title-gold">
                                     <h3>Normal Plan</h3>
@@ -93,7 +93,7 @@ function Pricingplan(){
                         <div className="pricing-item-header-gold">
                             <div className="pricing-item-header-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-pricing-item-2-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-pricing-item-2-gold.svg" alt=""/>
                                 </div>
                                 <div className="pricing-item-title-gold">
                                     <h3>Standard Plan</h3>
@@ -128,7 +128,7 @@ function Pricingplan(){
                         <div className="pricing-item-header-gold">
                             <div className="pricing-item-header-box-gold">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-pricing-item-3-gold.svg" alt=""/>
+                                    <img src="/assets/images/icon-pricing-item-3-gold.svg" alt=""/>
                                 </div>
                                 <div className="pricing-item-title-gold">
                                     <h3>Premium Plan</h3>
@@ -161,9 +161,9 @@ function Pricingplan(){
                 <div className="col-lg-12"> 
                     <div className="pricing-benefit-list-gold wow fadeInUp" data-wow-delay="0.6s">
                         <ul>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-1.svg" alt=""/>Get 3 days free trial</li>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-2.svg" alt=""/>No any hidden fees pay</li>
-                            <li><img src="./src/assets/images/icon-pricing-benefit-3.svg" alt=""/>You can cancel anytime</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-1.svg" alt=""/>Get 3 days free trial</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-2.svg" alt=""/>No any hidden fees pay</li>
+                            <li><img src="/assets/images/icon-pricing-benefit-3.svg" alt=""/>You can cancel anytime</li>
                         </ul>
                     </div>
                 </div>

@@ -29,7 +29,7 @@ function Ourfeaturespricing(){
                         <div className="our-features-box feature-cta-box wow fadeInUp">
                             <div className="feature-cta-image">
                                 <figure>
-                                    <img style={{maxWidth:'100%'}} src="./src/assets/images/post2.jpg.png" alt=""/>
+                                    <img style={{maxWidth:'100%'}} src="/assets/images/post2.jpg.png" alt=""/>
                                 </figure>
                             </div>
                             <div className="feature-cta-item">
@@ -77,7 +77,7 @@ function Ourfeaturespricing(){
                         <div className="our-features-box">
                             <div className="our-features-image wow fadeInUp" data-wow-delay="0.2s">
                                 <figure>
-                                    <img style = {{maxWidth:'100%'}} src="./src/assets/images/gym-header.png.png" alt=""/>
+                                    <img style = {{maxWidth:'100%'}} src="/assets/images/gym-header.png.png" alt=""/>
                                 </figure>
                             </div>
                             <div className="our-features-item wow fadeInUp" data-wow-delay="0.4s">
@@ -102,39 +102,39 @@ function Ourfeaturespricing(){
                                  
                                     <div className="scrolling-ticker-box">
                                         <div className="scrolling-content">
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
                                         </div>                                    
                                         <div className="scrolling-content">
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
                                         </div>
                                     </div>
 
                                     <div className="scrolling-ticker-box scroll-reverse">
                                         <div className="scrolling-content">
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
                                         </div>                                    
                                         <div className="scrolling-content">
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
-                                            <span><img src="./src/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-1.svg" alt=""/> Strength Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-2.svg" alt=""/> Cardio & Endurance</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-3.svg" alt=""/> Personal Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-4.svg" alt=""/> Yoga & Stretching</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-5.svg" alt=""/> Cross Training</span>
+                                            <span><img src="/assets/images/feature-scrolling-ticker-img-6.svg" alt=""/> Weight Loss Program</span>
                                         </div>
                                     </div>
                             
@@ -146,7 +146,7 @@ function Ourfeaturespricing(){
                        
                             <div className="our-features-item experience-item wow fadeInUp" data-wow-delay="0.8s">
                                 <div className="icon-box">
-                                    <img src="./src/assets/images/icon-our-feature-item.svg" alt=""/>
+                                    <img src="/assets/images/icon-our-feature-item.svg" alt=""/>
                                 </div>
                                 <div className="feature-item-content">
                                     <h3>Over 15+ Years Of Experience</h3>
@@ -171,11 +171,11 @@ function Ourfeaturespricing(){
                         <div className="satisfy-client-images">
                             <div className="satisfy-client-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/author-6.jpg" alt=""/>
+                                    <img src="/assets/images/author-6.jpg" alt=""/>
                                 </figure>
                             </div>
                             <div className="satisfy-client-image add-more">
-                                <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                             </div>
                         </div>
                       

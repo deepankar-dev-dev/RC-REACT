@@ -17,7 +17,7 @@ function Howitworks(){
                         <div className="how-work-item wow fadeInUp">
                             <div className="how-work-item-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/about-item-image1.jpeg" alt=""/>
+                                    <img src="/assets/images/about-item-image1.jpeg" alt=""/>
                                 </figure>
                                 <div className="how-work-item-step">
                                     <p>Step 01</p>
@@ -38,7 +38,7 @@ function Howitworks(){
                         <div className="how-work-item wow fadeInUp" data-wow-delay="0.2s">
                             <div className="how-work-item-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/about-item-image2.jpg.jpeg" alt=""/>
+                                    <img src="/assets/images/about-item-image2.jpg.jpeg" alt=""/>
                                 </figure>
                                 <div className="how-work-item-step">
                                     <p>Step 02</p>
@@ -59,7 +59,7 @@ function Howitworks(){
                         <div className="how-work-item wow fadeInUp" data-wow-delay="0.4s">
                             <div className="how-work-item-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/about-item-image3.jpg.jpeg" alt=""/>
+                                    <img src="/assets/images/about-item-image3.jpg.jpeg" alt=""/>
                                 </figure>
                                 <div className="how-work-item-step">
                                     <p>Step 03</p>
@@ -89,7 +89,7 @@ function Howitworks(){
                                 </figure>
                             </div>
                             <div className="satisfy-client-image add-more">
-                                <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                             </div>
                         </div>
  

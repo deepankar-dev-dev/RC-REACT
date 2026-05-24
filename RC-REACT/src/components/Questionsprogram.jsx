@@ -8,7 +8,7 @@ function Questionsprogram(){
                     <div className="faqs-image-box wow fadeInUp">
                         <div className="faqs-image">
                             <figure className="image-anime">
-                                <img src="./src/assets/images/about-approach-image.jpg.jpeg" alt=""/>
+                                <img src="/assets/images/about-approach-image.jpg.jpeg" alt=""/>
                             </figure>
                         </div>
 

@@ -8,13 +8,13 @@ function Pagecontact(){
                         <div className="contact-image-box">
                             <div className="contact-us-image">
                                 <figure>
-                                    <img style={{maxwidth: '100%'}} src="./src/assets/images/model.png.png" alt=""/>
+                                    <img style={{maxwidth: '100%'}} src="/assets/images/model.png.png" alt=""/>
                                 </figure>
                             </div>
                             <div className="contact-info-items-list wow fadeInUp">
                                 <div className="contact-info-item">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                        <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                                     </div>
                                     <div className="contact-info-item-content">
                                         <h2>Phone Number</h2>
@@ -23,7 +23,7 @@ function Pagecontact(){
                                 </div>
                                 <div className="contact-info-item">
                                     <div className="icon-box">
-                                        <img src="./src/assets/images/icon-mail-primary.svg" alt=""/>
+                                        <img src="/assets/images/icon-mail-primary.svg" alt=""/>
                                     </div>
                                     <div className="contact-info-item-content">
                                         <h2>Email Address</h2>

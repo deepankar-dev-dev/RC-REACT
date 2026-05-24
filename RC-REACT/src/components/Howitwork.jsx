@@ -20,7 +20,7 @@ function Howitwork(){
                     <div className="how-work-item-gold wow fadeInUp">
                         <div className="how-work-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-how-it-work-1-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-how-it-work-1-gold.svg" alt=""/>
                             </div>
                             <div className="how-work-item-no-gold">
                                 <p>Step 01</p>
@@ -39,7 +39,7 @@ function Howitwork(){
                     <div className="how-work-item-gold wow fadeInUp" data-wow-delay="0.2s">
                         <div className="how-work-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-how-it-work-2-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-how-it-work-2-gold.svg" alt=""/>
                             </div>
                             <div className="how-work-item-no-gold">
                                 <p style={{visibility: 'visible', animationDelay: '0.2s', color:'#4d4b4b'}}>Step 02</p>
@@ -58,7 +58,7 @@ function Howitwork(){
                     <div className="how-work-item-gold wow fadeInUp" data-wow-delay="0.4s">
                         <div className="how-work-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-how-it-work-3-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-how-it-work-3-gold.svg" alt=""/>
                             </div>
                             <div className="how-work-item-no-gold">
                                 <p style={{visibility: 'visible', animationDelay: '0.2s', color:'#4d4b4b'}}>Step 03</p>
@@ -79,11 +79,11 @@ function Howitwork(){
                         <div className="satisfy-client-images">
                             <div className="satisfy-client-image">
                                 <figure className="image-anime">
-                                    <img src="./src/assets/images/author-6.jpg" alt=""/>
+                                    <img src="/assets/images/author-6.jpg" alt=""/>
                                 </figure>
                             </div>
                             <div className="satisfy-client-image add-more">
-                                <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                             </div>
                         </div>
                           

@@ -40,7 +40,7 @@ function Whatwedoabout(){
                         </div>
 
                         <div className="icon-box">
-                            <img src="./src/assets/images/icon-what-we-do-1.svg" alt=""/>
+                            <img src="/assets/images/icon-what-we-do-1.svg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@ function Whatwedoabout(){
                         </div>
 
                         <div className="icon-box">
-                            <img src="./src/assets/images/icon-what-we-do-2.svg" alt=""/>
+                            <img src="/assets/images/icon-what-we-do-2.svg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ function Whatwedoabout(){
                         </div>
 
                         <div className="icon-box">
-                            <img src="./src/assets/images/icon-what-we-do-3.svg" alt=""/>
+                            <img src="/assets/images/icon-what-we-do-3.svg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@ function Whatwedoabout(){
                                 </figure>
                             </div>
                             <div className="satisfy-client-image add-more">
-                                <img src="./src/assets/images/icon-phone-primary.svg" alt=""/>
+                                <img src="/assets/images/icon-phone-primary.svg" alt=""/>
                             </div>
                         </div>
                

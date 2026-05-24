@@ -20,11 +20,11 @@ function Programs(){
                     <div className="program-item-gold wow fadeInUp">
                         <div className="program-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-programs-1-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-our-programs-1-gold.svg" alt=""/>
                             </div>
                             <div className="program-item-image-gold">
                                 <figure>
-                                    <img src="./src/assets/images/modelW.png.png" alt=""/>
+                                    <img src="/assets/images/modelW.png.png" alt=""/>
                                 </figure>
                             </div>
                         </div>
@@ -44,11 +44,11 @@ function Programs(){
                     <div className="program-item-gold wow fadeInUp" data-wow-delay="0.2s">
                         <div className="program-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-programs-2-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-our-programs-2-gold.svg" alt=""/>
                             </div>                            
                             <div className="program-item-image-gold">
                                 <figure>
-                                    <img src="./src/assets/images/modelST.png.jpeg" alt=""/>
+                                    <img src="/assets/images/modelST.png.jpeg" alt=""/>
                                 </figure>
                             </div>
                         </div>
@@ -69,11 +69,11 @@ function Programs(){
                     <div className="program-item-gold wow fadeInUp" data-wow-delay="0.4s">
                         <div className="program-item-header-gold">
                             <div className="icon-box">
-                                <img src="./src/assets/images/icon-our-programs-3-gold.svg" alt=""/>
+                                <img src="/assets/images/icon-our-programs-3-gold.svg" alt=""/>
                             </div>                            
                             <div className="program-item-image-gold">
                                 <figure>
-                                    <img src="./src/assets/images/modelC.png.jpeg" alt=""/>
+                                    <img src="/assets/images/modelC.png.jpeg" alt=""/>
                                 </figure>
                             </div>
                         </div>
